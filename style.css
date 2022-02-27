@@ -1,14 +1,20 @@
 body{
-  background-color: orange;
-  color: white;
-  font-family: arial, helvetica, san-serif;
+  background-color: pink;
+  color: black;
+  font-family: beirut, helvetica, san-serif;
   margin: 10% 20%;
+}
+
+h1 {
+  color: white;
+  font-size: 30px;
+  font-family: beirut;  
 }
 
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 6px solid #ddd;
+  border-bottom: 6px solid #ddd;
   background-color: grey
 }
